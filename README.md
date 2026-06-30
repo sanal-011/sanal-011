@@ -14,6 +14,9 @@
 </p>
 
 ## 🚀 About Me
+<p align="center">
+  <img src="cv-profile (2).png" width="220" alt="Sanal R">
+</p>
 
 UX/UI Developer with **2+ years** of experience designing and developing responsive web applications.
 
