@@ -55,25 +55,25 @@ UX/UI Developer with **2+ years** of experience designing and developing respons
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=marco-011&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://streak-stats.demolab.com?user=marco-011&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=sanal-011&theme=tokyonight"/>
 </p>
 
 ## 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-011&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanal-011&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=marco-011&theme=tokyonight&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sanal-011&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marco-011&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanal-011&theme=tokyo-night"/>
 </p>
 
 ## 🐍 Contribution Snake
