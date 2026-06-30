@@ -21,7 +21,7 @@ UX/UI Developer with **2+ years** of experience designing and developing respons
 - 💼 UX/UI Developer | Front-End Developer
 - 🌱 Currently learning **React.js**
 - 📧 sanalrattingal@gmail.com
-- 🌐 Portfolio: https://marco-011.github.io/update-cv-sanal-R/
+- 🌐 Portfolio: t https://sanal-011.github.io/update-cv-sanal-R/
 
 ## 🛠️ Tech Stack
 
