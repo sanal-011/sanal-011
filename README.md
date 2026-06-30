@@ -84,4 +84,4 @@ UX/UI Developer with **2+ years** of experience designing and developing respons
 > Enable the GitHub Action from Platane/snk, then use:
 
 ```md
-![Snake](https://github.com/marco-011/marco-011/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/marco-011/sanal-011/blob/output/github-contribution-grid-snake.svg)
