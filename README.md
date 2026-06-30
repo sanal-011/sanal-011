@@ -70,8 +70,9 @@ UX/UI Developer with **2+ years** of experience designing and developing respons
 ## 🏆 Trophies
 
 <p align="center">
-  [<img src="https://github-profile-trophy.vercel.app/?username=sanal-011&theme=gruvbox" />](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)
-  
+<p align="center">
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=sanal-011" alt="GitHub Language Trophy">
+</p>
 </p>
 
 ## 📈 Activity Graph
