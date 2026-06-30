@@ -70,7 +70,8 @@ UX/UI Developer with **2+ years** of experience designing and developing respons
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanal-011&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanal-011&theme=gruvbox" />
+  
 </p>
 
 ## 📈 Activity Graph
