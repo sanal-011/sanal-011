@@ -1,7 +1,4 @@
-from pathlib import Path
-import pypandoc
 
-md = r"""# Hi 👋, I'm Sanal R
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:00D4FF&text=Sanal%20R&fontColor=ffffff&fontSize=52&animation=fadeIn&desc=UX/UI%20Developer%20|%20Front-End%20Developer&descAlignY=62"/>
